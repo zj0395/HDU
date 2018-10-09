@@ -1,4 +1,4 @@
-//动态规划，求最大递增子序列
+//动态规划，求最大递增子序列的和
 #include<iostream>
 #include<cstring>
 using namespace std;
